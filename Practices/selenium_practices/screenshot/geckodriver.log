@@ -1,0 +1,120 @@
+1561024822440	geckodriver	INFO	geckodriver 0.20.1
+1561024822448	geckodriver	INFO	Listening on 127.0.0.1:16647
+1561024825475	mozrunner::runner	INFO	Running command: "D:\\installed\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hasee\\AppData\\Local\\Temp\\rust_mozprofile.Z0SrPWHKkOkW"
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+1561024827192	Marionette	INFO	Listening on port 16658
+1561024827495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1561024828502	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/installed/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/installed/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+[Parent 16488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 16488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15584, Chrome_ChildThread] WARNING: pipe error*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561082858188	geckodriver	INFO	geckodriver 0.20.1
+1561082858219	geckodriver	INFO	Listening on 127.0.0.1:16956
+1561082861660	mozrunner::runner	INFO	Running command: "D:\\installed\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hasee\\AppData\\Local\\Temp\\rust_mozprofile.rIgMm7GX3YjX"
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+1561082866132	Marionette	INFO	Listening on port 16980
+1561082866890	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 7472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561083060337	geckodriver	INFO	geckodriver 0.20.1
+1561083060345	geckodriver	INFO	Listening on 127.0.0.1:17739
+1561083063367	mozrunner::runner	INFO	Running command: "D:\\installed\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hasee\\AppData\\Local\\Temp\\rust_mozprofile.wg8dLMsHtWFG"
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+1561083065009	Marionette	INFO	Listening on port 17767
+1561083065381	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14856,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561083122676	geckodriver	INFO	geckodriver 0.20.1
+1561083122685	geckodriver	INFO	Listening on 127.0.0.1:18170
+1561083125749	mozrunner::runner	INFO	Running command: "D:\\installed\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hasee\\AppData\\Local\\Temp\\rust_mozprofile.20LxOjzn8dH8"
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+1561083127446	Marionette	INFO	Listening on port 18179
+1561083127770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript error: https://t1.hoopchina.com.cn/topn-v2.html#!zone-6306153, line 1: TypeError: obj is undefined
+JavaScript error: https://w1.hoopchina.com.cn/b1/web/channel/bbs/static/common/lazyload_7180c59.js, line 1: ReferenceError: imgs is not defined
+JavaScript warning: https://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript error: https://photo.hupu.com/dfp/bbs_ball_content_1x1.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 12508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1561083279622	mozrunner::runner	INFO	Running command: "D:\\installed\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hasee\\AppData\\Local\\Temp\\rust_mozprofile.YCEoypWFk8w8"
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hasee\AppData\Local\openvr\openvrpaths.vrpath
+1561083281576	Marionette	INFO	Listening on port 18861
+1561083281694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript error: https://t1.hoopchina.com.cn/topn-v2.html#!zone-6306153, line 1: TypeError: obj is undefined
+JavaScript error: https://w1.hoopchina.com.cn/b1/web/channel/bbs/static/common/lazyload_7180c59.js, line 1: ReferenceError: imgs is not defined
+JavaScript warning: https://b3.hoopchina.com.cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript error: https://photo.hupu.com/dfp/bbs_ball_content_1x1.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 2748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[GPU 10300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cn/web/module/dace/1.0.0/dace.js, line 1: unreachable code after return statement
+JavaScript error: https://t1.hoopchina.com.cn/topn-v2.html#!zone-6306153, line 1: TypeError: obj is undefined
+JavaScript error: https://w1.hoopchina.com.cn/b1/web/channel/bbs/static/common/lazyload_7180c59.js, line 1: ReferenceError: imgs is not defined
+JavaScript error: https://photo.hupu.com/dfp/bbs_ball_content_1x1.js, line 1: SyntaxError: expected expression, got '<'
+[Child 14524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15868*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

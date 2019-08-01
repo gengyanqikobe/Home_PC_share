@@ -1,0 +1,13 @@
+[INFO  - 2019-06-20T09:52:51.468Z] GhostDriver - Main - running on port 16125
+[INFO  - 2019-06-20T09:52:55.847Z] Session [2d955730-9341-11e9-9409-237a2e61b292] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-06-20T09:52:55.847Z] Session [2d955730-9341-11e9-9409-237a2e61b292] - page.customHeaders:  - {}
+[INFO  - 2019-06-20T09:52:55.847Z] Session [2d955730-9341-11e9-9409-237a2e61b292] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-06-20T09:52:55.848Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2d955730-9341-11e9-9409-237a2e61b292
+[ERROR - 2019-06-20T09:52:56.220Z] Session [2d955730-9341-11e9-9409-237a2e61b292] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'r.includes(cb_entryId)')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-20T09:52:56.221Z] Session [2d955730-9341-11e9-9409-237a2e61b292] - page.onError - stack:
+  canShowAdsense (https://www.cnblogs.com/bundles/blog-common.js?v=smtcUT5dhdu_5eEO8CKHYoVc7DPLgEBGzp6zKkstlzg1:1)
+  deliverC1 (https://www.cnblogs.com/bundles/blog-common.js?v=smtcUT5dhdu_5eEO8CKHYoVc7DPLgEBGzp6zKkstlzg1:1)
+
+  phantomjs://platform/console++.js:263 in error

@@ -1,0 +1,51 @@
+test_add (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_mul (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_sub (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_div (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... FAIL
+
+======================================================================
+FAIL: test_div (uniteset_lianxi.test_mathfunction.TestMathFuncion)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\hasee\PycharmProjects\CloudYoung\uniteset_lianxi\test_mathfunction.py", line 16, in test_div
+    self.assertEqual(2.5,div(5,1))
+AssertionError: 2.5 != 5.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+FAILED (failures=1)
+test_add (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_mul (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_sub (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_div (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... FAIL
+
+======================================================================
+FAIL: test_div (uniteset_lianxi.test_mathfunction.TestMathFuncion)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\hasee\PycharmProjects\CloudYoung\uniteset_lianxi\test_mathfunction.py", line 16, in test_div
+    self.assertEqual(2.5,div(5,1))
+AssertionError: 2.5 != 5.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)
+test_add (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_mul (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_sub (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... ok
+test_div (uniteset_lianxi.test_mathfunction.TestMathFuncion) ... FAIL
+
+======================================================================
+FAIL: test_div (uniteset_lianxi.test_mathfunction.TestMathFuncion)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\hasee\PycharmProjects\CloudYoung\uniteset_lianxi\test_mathfunction.py", line 21, in test_div
+    self.assertEqual(2.5,div(5,1))
+AssertionError: 2.5 != 5.0
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+FAILED (failures=1)

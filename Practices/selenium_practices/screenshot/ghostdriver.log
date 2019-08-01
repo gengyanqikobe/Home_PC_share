@@ -1,0 +1,21 @@
+[INFO  - 2019-06-21T02:17:51.460Z] GhostDriver - Main - running on port 19791
+[INFO  - 2019-06-21T02:17:55.863Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-06-21T02:17:55.863Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - page.customHeaders:  - {}
+[INFO  - 2019-06-21T02:17:55.863Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-06-21T02:17:55.863Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c7eff720-93ca-11e9-9969-33f00cd5f788
+[ERROR - 2019-06-21T02:17:56.648Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - page.onError - msg: TypeError: undefined is not an object (evaluating 'obj.id')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-21T02:17:56.649Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - page.onError - stack:
+  writeAd (https://t1.hoopchina.com.cn/topn-v2.html#!zone-6306153:1)
+  out (https://t1.hoopchina.com.cn/topn-v2.html#!zone-6306153:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-21T02:17:56.674Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - page.onError - msg: ReferenceError: Can't find variable: imgs
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-06-21T02:17:56.674Z] Session [c7eff720-93ca-11e9-9969-33f00cd5f788] - page.onError - stack:
+  (anonymous function) (https://w1.hoopchina.com.cn/b1/web/channel/bbs/static/common/lazyload_7180c59.js:1)
+  e (https://w1.hoopchina.com.cn/b1/web/channel/bbs/static/common/lazyload_7180c59.js:1)
+
+  phantomjs://platform/console++.js:263 in error
