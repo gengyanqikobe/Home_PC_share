@@ -14,3 +14,4 @@ print(list_a.index(min_a))
 
 print(123)
 print('kkk1')
+print('bbb')
