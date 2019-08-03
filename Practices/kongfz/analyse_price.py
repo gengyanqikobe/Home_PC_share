@@ -9,7 +9,9 @@
 
 import xlrd
 import xlutils
-from pyecharts import Bar
+
+from pyecharts.charts import Bar
+
 import webbrowser
 from pandas import DataFrame
 import pandas

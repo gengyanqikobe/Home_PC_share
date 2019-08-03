@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61c1097-673c-47b3-bb18-05b0168e06c8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\.idea\PycharmProjects.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\CloudYoung.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\MyTornado.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\Xpath\forXpath.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\Xpath\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\Xpath\yunyang.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\chehaomai\CHEhm-GouChejsq.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\chehaomai\jishuanqi-看车.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\chehaomai\ordertime.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\dealer\CookieForLr.dat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\dealer\CookieForLr.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\dealer\accountgetlist.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\dealer\dealerlogin.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\lianxi\cofnig_lianxi.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\lianxi\config_lianxi.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\lianxi\config_read_lianxi.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\lianxi\config_read_lianxi2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\lianxi\email_lianxi.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\lianxi\test.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\__MACOSX\interface\._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\__MACOSX\interface\package\._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\__MACOSX\interface\package\._Test_data.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\__MACOSX\interface\package\._Test_data.numbers" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\__MACOSX\interface\test_report\._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\.idea\interface.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\package\DataBase_conn.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\package\Test_data.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\package\Test_data.numbers" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\package\WebRequests.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\package\conf.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\runtest2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_case\.cache\v\cache\lastfailed" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_case\runtest.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_case\test_exp1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_case\test_getStyleConfigList.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_report\2018-04-09 16_25_50test_result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_report\2018-04-09 16_27_25test_result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_report\2018-04-11 16_45_38test_result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\interface\test_report\2018-04-11 16_51_51test_result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\.idea\train.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\function\mathfunc.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180403 152315result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180403 152620result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 154826result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 154848result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 155121result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160006result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160020result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160045result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160059result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160626result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160633result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 160637result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161100result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161115result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161123result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161324result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161327result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161545result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161728result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 161758result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\reports\20180409 162524result.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\run.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\single.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\liuhl\train\testcases\test_mathfunc.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\mmc\mmclogin.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\uniteset_lianxi\_report_html.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\uniteset_lianxi\mathfuction_report.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\uniteset_lianxi\mathfunction.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\uniteset_lianxi\test_mathfunction.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\uniteset_lianxi\test_suite.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\unitest_dealer\dealer_report.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\unitest_dealer\dealerfunction.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\unitest_dealer\test_dealerfunction.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\CloudYoung\unitest_dealer\test_suite.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\common.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\test_case\mxt\test_analysis.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\test_case\mxt\test_detail.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\test_case\mxt\test_search.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\test_case\mxt\test_trade.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\test_case\run\run_mxt.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\Auto\test_innoSearchTag.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\compid_all.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\fail.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\getCompBaseInfoPresto.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\getCompLabelsPresto.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\get_cookie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\ghostdriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\ncid.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\result.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\result_baseinfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\run_getCompBaseInof.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\BI\run_getCompLables.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\DISP\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\DISP\path_config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\DISP\r_base.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\DISP\register.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\DISP\shu_base.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\DISP\xinyongma.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\config.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\db_sql\update_grade.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\base_account.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\baseid_comp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\baseid_part.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\login.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\reco_prepare.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\recommend.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\recommend_prepare.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\register.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\function\xinyongma.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\hesitate.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\maoxintong.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\mxt_account.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\mxt_account_info.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\path_config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\read_config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\base_account.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_base_ident_comp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_base_ident_part.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_choise.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_reco_pre.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_recommend.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_register.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\mxt\run\run_update_grade.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\base.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\high.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\path_config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\register.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\xinyongma.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\zhi_base.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\zhi_high.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Innotree\zhixt\zhixt_account.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\Mapbar.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\GetKobeFromHupu-version2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\GetKobeFromHupu.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\GetThePageTarget.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\GetToken.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\caiji3.2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\caiji_work.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\caijirenwuguanli.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\forsunxi.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\goods_search_goods.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\maopaopaixu.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\remember.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\split.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\test_for_excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\函数猜随机数.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Mapbar\采集任务管理.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\common\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\common\common.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\common\get_port_and_para.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\run\run.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\testCase\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\testCase\test_park_list.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\apiPort_practice\testFile\case\park.xls" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\common\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\common\common.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\common\configDataBase.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\common\configEmail.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\common\configHttp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\common\log.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\config.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\config.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\from_git\08.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\from_git\10_tkinter.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\from_git\creat_code.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\from_git\peppa_pig.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\getCorpIntroduce1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\getCorpIntroduce2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\getCorpIntroduce3.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\get_Corp_total.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\getCorpIntroduce\gyqurl.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\happybase_forxinjie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\hive_forxinjie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\kongfz\analyse_price.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\kongfz\kongfz_price.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\kongfz\kongfz_price.xls" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\kongfz\shop_count.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\kongfz\shopname_bookname.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\mitm_practice\mitm_count.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\mitm_practice\mitm_cute.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\pandas_practice\1_practice.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\pandas_practice\df_to_html.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\pandas_practice\df_to_html.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\pandas_practice\frame_practice.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\readConfig.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\runAll.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\back_forward.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\cookie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\drag_and_drop.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\handles.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\panduan.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\screenshot\1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\screenshot\22.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\screenshot\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\screenshot\gengyanqi.xls" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\screenshot\ghostdriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\screenshot\prc_screenshot1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\sele_prc2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\sele_prc3.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\sele_prc4.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\sele_prc5.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\sele_prc_1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\selenium_practices\switch_to.frame.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\temp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\11.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\12.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\a.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\db.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\fengzhuang.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\geckodriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\ghostdriver.log" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\result.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Matplotlib\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Matplotlib\block.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Matplotlib\block_bar_graph.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Mysql\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Mysql\mysql_practice1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Picture\123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Picture\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Picture\pic.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Picture\tx.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\bar.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\bar_practice.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\block.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\echart_for_xinjie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\fail.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\forxinjie.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\pie.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_Pyecharts\pie_practice.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_eMail\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_eMail\email_practice1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_findall.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_finditer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_group_groups.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_match.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_search.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_split.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_re\test_sub.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\5Card.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\5Card_1.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\calssss-diaoyong.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\classss.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\music_moive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\os_path.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\personn_information.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\staticmethod_classmethod.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\thread_ing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\thread_music_moive.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\time_out.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_t\xlrd_test.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\block.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\compid_all.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\getCompLabelsPresto.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\ncid.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\result.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\run_getCompLables.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\threading_practice.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_treading\threading_practice2.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_xlrd_xlwt\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_xlrd_xlwt\practice_xlrd.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_xlrd_xlwt\practice_xlutils.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_xlrd_xlwt\prctice_xlwt.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\test_xlrd_xlwt\员工姓名手册.xls" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\Practices\test\traintoKeyValue.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest%28oschina%E4%B8%8A888%E7%B1%B3%E5%85%94%E7%9A%84python%2Brequests%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E5%AE%9E%E4%BE%8B%E8%AF%A6%E8%A7%A3%E6%95%99%E7%A8%8B%29.zip" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\.idea\interfaceTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\caselist.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\HTMLTestRunner.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\Log.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\businessCommon.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\common.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\configDB.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\configEmail.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\common\configHttp.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\config.ini" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\readConfig.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\runAll.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\product\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\product\testGetProductInfo.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testAccountSetting.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testAddAddress.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testDeleteAddress.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testGenerate.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testGetAddress.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testGetAddressList.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testLogin.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testLoginFB.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testLogout.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testRegister.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testRegisterQuick.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testUpdatePassword.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testCase\user\testUploadImg.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testFile\SQL.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testFile\case\productCase.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testFile\case\userCase.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testFile\emailStyle.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testFile\img\test.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\KOBE\PycharmProjects\ziliao\interfaceTest\testFile\interfaceURL.xml" afterPath="" />
+    </list>
+    <ignored path="PycharmProjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$setup.coverage" NAME="setup Coverage Results" MODIFIED="1564800786698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/uninstall/pip-19.2.1/pip-19.2.1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$analyse_price.coverage" NAME="analyse_price Coverage Results" MODIFIED="1564804143811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practices/kongfz" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$temp.coverage" NAME="temp Coverage Results" MODIFIED="1564803425066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practices" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practices/temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27792552" vertical-offset="0" max-vertical-offset="752">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="12" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_Corp_total.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practices/getCorpIntroduce/get_Corp_total.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7619">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="e#128#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyse_price.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practices/kongfz/analyse_price.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="3591">
+              <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+              <folding>
+                <element signature="e#75#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.git/config">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.967742" vertical-offset="0" max-vertical-offset="361">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Practices/kongfz/analyse_price.py" />
+        <option value="$PROJECT_DIR$/Practices/temp.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitm_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kongfz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apiPort_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PycharmProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Innotree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.analyse_price">
+    <configuration default="false" name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/uninstall/pip-19.2.1/pip-19.2.1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/uninstall/pip-19.2.1/pip-19.2.1/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="analyse_price" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practices/kongfz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practices/kongfz/analyse_price.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.temp" />
+      <item index="1" class="java.lang.String" itemvalue="Python.setup" />
+      <item index="2" class="java.lang.String" itemvalue="Python.analyse_price" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.analyse_price" />
+        <item index="1" class="java.lang.String" itemvalue="Python.temp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61c1097-673c-47b3-bb18-05b0168e06c8" name="Default" comment="" />
+      <created>1564800089238</created>
+      <option name="number" value="Default" />
+      <updated>1564800089238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15476191" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15476191" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25586355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/uninstall/pip-19.2.1/pip-19.2.1/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0321489" vertical-offset="342" max-vertical-offset="1672">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Scripts/pip3-script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.321489" vertical-offset="0" max-vertical-offset="591">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/getCorpIntroduce/get_Corp_total.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7619">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#128#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/kongfz/kongfz_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2736">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#216#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/mitm_practice/mitm_cute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22739361" vertical-offset="0" max-vertical-offset="752">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#137#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/mitm_practice/mitm_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5305851" vertical-offset="0" max-vertical-offset="752">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/apiPort_practice/common/get_port_and_para.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="752">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/apiPort_practice/testCase/test_park_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10106383" vertical-offset="0" max-vertical-offset="1900">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mapbar/caiji3.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6023">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Innotree/DISP/register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Innotree/BI/getCompBaseInfoPresto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2014">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Innotree/Auto/test_case/mxt/test_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1843">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Innotree/Auto/test_innoSearchTag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30319148" vertical-offset="0" max-vertical-offset="1672">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050531916" vertical-offset="0" max-vertical-offset="752">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050531916" vertical-offset="0" max-vertical-offset="752">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4694149" vertical-offset="2117" max-vertical-offset="2869">
+          <caret line="130" column="56" selection-start-line="130" selection-start-column="56" selection-end-line="130" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49468085" vertical-offset="407" max-vertical-offset="1159">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#132#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/charts/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3537234" vertical-offset="0" max-vertical-offset="2679">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/render.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2793">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/pyecharts/charts/basic_charts/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1102">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.git/config">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18446602" vertical-offset="0" max-vertical-offset="721">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.git/config">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.967742" vertical-offset="0" max-vertical-offset="361">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/kongfz/analyse_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="3591">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+          <folding>
+            <element signature="e#75#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practices/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27792552" vertical-offset="0" max-vertical-offset="752">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
