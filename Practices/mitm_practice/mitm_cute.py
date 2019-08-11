@@ -2,7 +2,7 @@
 
 
 
-#打开浏览器的语句
+#控制浏览器的时候使用下面的语句
 #"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  --proxy-server=127.0.0.1:8080 --ignore-certificate-errors
 
 from mitmproxy import ctx
